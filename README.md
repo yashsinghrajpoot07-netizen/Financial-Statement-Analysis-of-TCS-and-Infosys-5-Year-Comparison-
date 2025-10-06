@@ -63,6 +63,3 @@ Overall, both companies are financially strong, but **TCS** demonstrated slightl
 **Project Type:** Academic Project / Financial Analysis  
 **Year:** 2025  
 
----
-
-⭐ If you found this useful, give it a star on GitHub!

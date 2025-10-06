@@ -58,7 +58,7 @@ Overall, both companies are financially strong, but **TCS** demonstrated slightl
 ---
 
 ## 👩‍💻 Author
-**Name:** Yash Rajput  
+**Name:** Yash Vardhan Singh   
 **Course:** B.Com (Hons.)  
 **Project Type:** Academic Project / Financial Analysis  
 **Year:** 2025  
